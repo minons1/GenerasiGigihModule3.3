@@ -1,4 +1,4 @@
-# Generasi Gigih Module 3.3 Hands On
+# Generasi Gigih Module 3.3 Hands On FS_6
 ## Prequisite
 1. [MongoDB](https://www.mongodb.com/docs/manual/administration/install-community/)
 2. [NodeJS](https://nodejs.org/en/download) v16 or higher 
